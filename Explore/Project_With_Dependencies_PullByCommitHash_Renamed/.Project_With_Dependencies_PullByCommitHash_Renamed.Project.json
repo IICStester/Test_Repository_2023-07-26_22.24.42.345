@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "7VkSe3yjj5XfiybFLwg3Gk",
-    "name" : "Project_With_Dependencies_PullByCommitHash",
+    "name" : "Project_With_Dependencies_PullByCommitHash_Renamed",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -18,6 +18,6 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-07-26T22:26:21.559Z",
+  "updateTime" : "2023-07-26T22:26:25.875Z",
   "objectRefs" : [ ]
 }
